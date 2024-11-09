@@ -1,7 +1,8 @@
-<h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3> Date: </h3>
-<h3>Name: KEERTHANA S</h3>
-<h3>Register Number: 212223240070                </h3>
+<H1 ALIGN =CENTER>Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</H1>
+<H3>NAME: KEERTHANA S</H3>
+<H3>REGISTER NO.: 212223240070</H3>
+<H3>EX. NO.9</H3>
+<H3>DATE:</H3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
